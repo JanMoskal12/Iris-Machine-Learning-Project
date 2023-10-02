@@ -1,0 +1,2 @@
+https://www.datacamp.com/tutorial/machine-learning-in-r
+https://www.datacamp.com/tutorial/k-nearest-neighbors-knn-classification-with-r-tutorial
